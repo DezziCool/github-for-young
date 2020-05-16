@@ -2,3 +2,5 @@
 Первый тестовый репозиторий
 I have ubuntu
 YES
+lol
+lol
